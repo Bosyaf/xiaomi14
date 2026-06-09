@@ -1,3 +1,0 @@
-# Touch drivers
-
-source "techpack/touch/synaptics_tcm2/Kconfig"
