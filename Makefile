@@ -457,9 +457,6 @@ endif
 KCONFIG_CONFIG	?= .config
 export KCONFIG_CONFIG
 
-KCONFIG_EXT_PREFIX := techpack/
-export KCONFIG_EXT_PREFIX
-
 # SHELL used by kbuild
 CONFIG_SHELL := sh
 
